@@ -70,5 +70,5 @@ This repository documents a \*\*Human-in-the-Loop\*\* methodology. The agents pr
 
 \---
 
-\*Author: \[Black Awan\]\*  
+\*Author: \[black_Swan\]\*  
 \*Research Engineer & Strategic Analyst\*  
