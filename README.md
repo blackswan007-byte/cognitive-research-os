@@ -10,9 +10,9 @@ Architecture: Multi-Agent
 
 Cognitive Research OS (CROS) is a structured operating system designed to externalize the cognitive processes of a researcher.
 
-Traditional research is often opaque—clients see the final PDF, not the rigorous logic behind it. CROS applies Software Engineering principles to Intelligence Analysis, decomposing complex reasoning into modular, interacting agents.
+Traditional research is often opaque, clients see the final Result, not the rigorous logic behind it. CROS applies Software Engineering principles to Intelligence Analysis, decomposing complex reasoning into modular, interacting agents.
 
-This framework is built upon the principles of "Agentic Design Patterns" (Gulli, 2024), shifting from simple zero-shot prompting to complex Multi-Agent Orchestration.
+This framework is built upon the principles of "Agentic Design Patterns" (Gulli, 2025), shifting from simple zero-shot prompting to complex Multi-Agent Orchestration.
 
 **SYSTEM ARCHITECTURE**
 
