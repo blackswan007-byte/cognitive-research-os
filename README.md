@@ -1,25 +1,22 @@
-\Cognitive Research OS (CROS)
+Cognitive Research OS (CROS)
 
-\> \*\*An Agentic Framework for Strategic Intelligence, Forensic Data Auditing, and Lateral Innovation.\*\*
+An Agentic Framework for Strategic Intelligence, Data Auditing, and Lateral Innovation.
 
-\!\[System Status\](https://img.shields.io/badge/Status-Active-success)  
-\!\[Methodology\](https://img.shields.io/badge/Methodology-Agentic\_Patterns-blue)  
-\!\[Architecture\](https://img.shields.io/badge/Architecture-Multi\_Agent-orange)
+[System Status\](https://img.shields.io/badge/Status-Active-success)  
+[Methodology\](https://img.shields.io/badge/Methodology-Agentic\_Patterns-blue)  
+[Architecture\](https://img.shields.io/badge/Architecture-Multi\_Agent-orange)
 
-\#\# 🧠 Philosophy  
-\*\*Cognitive Research OS (CROS)\*\* is a structured operating system designed to externalize the cognitive processes of a senior researcher.
+**Philosophy**  
+Cognitive Research OS (CROS) is a structured operating system designed to externalize the cognitive processes of a Market researcher.
 
-Traditional research is often opaque—clients see the final PDF, not the rigorous logic behind it. CROS applies \*\*Software Engineering principles\*\* to Intelligence Analysis, decomposing complex reasoning into modular, interacting agents.
+Traditional research is often opaque clients see the final Result, not the rigorous logic behind it. CROS applies Software Engineering principles o Intelligence Analysis, decomposing complex reasoning into modular, interacting agents.
 
-This framework is built upon the principles of \*\*"Agentic Design Patterns"\*\* (Gulli, 2024), shifting from simple zero-shot prompting to complex \*\*Multi-Agent Orchestration\*\*.
+This framework is built upon the principles of "Agentic Design Patterns" (Gulli, 2024), shifting from simple zero-shot prompting to complex Multi-Agent Orchestration
 
-\---
-
-\#\# 🏗️ System Architecture
-
+**System Architecture**
 The system operates on three distinct cognitive verticals, located in the \`/src\` directory:
 
-\#\#\# 1\. The Core Research Suite (Logical Deduction)  
+  1. The Core Research Suite (Logical Deduction)  
 \*Path: \`src/core-research/\`\*
 
 Implements \*\*Prompt Chaining\*\* and \*\*Reflection Patterns\*\* to simulate a rigorous desk research workflow.  
