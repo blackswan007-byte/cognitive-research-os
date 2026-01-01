@@ -9,10 +9,7 @@ An Agentic Framework for Strategic Intelligence, Data Auditing, and Lateral Inno
 🧠 Philosophy
 
 Cognitive Research OS (CROS) is a structured operating system designed to externalize the cognitive processes of a researcher.
-
-Traditional research is often opaque, clients see the final result, not the rigorous logic behind it. CROS applies Software Engineering principlee to Intelligence Analysis, decomposing complex reasoning into modular, interacting agents.
-
-This framework is built upon the principles of Agentic Design Patterns (Gulli, 2025), shifting from simple zero-shot prompting to complex Multi-Agent Orchestration
+Traditional research is often opaque, clients see the final result, not the rigorous logic behind it. CROS applies Software Engineering principlee to Intelligence Analysis, decomposing complex reasoning into modular, interacting agents. This framework is built upon the principles of Agentic Design Patterns (Gulli, 2025), shifting from simple zero-shot prompting to complex Multi-Agent Orchestration
 
 ---
 
