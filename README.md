@@ -1,4 +1,4 @@
-\# Cognitive Research OS (CROS)
+\Cognitive Research OS (CROS)
 
 \> \*\*An Agentic Framework for Strategic Intelligence, Forensic Data Auditing, and Lateral Innovation.\*\*
 
