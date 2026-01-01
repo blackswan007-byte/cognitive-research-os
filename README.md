@@ -10,16 +10,12 @@ Architecture: Multi-Agent
 
 
 **PHILOSOPHY**
-
 Cognitive Research OS (CROS) is a structured operating system designed to externalize the cognitive processes of a researcher.
-
 Traditional research is often opaque, clients see the final Result, not the rigorous logic behind it. CROS applies Software Engineering principles to Intelligence Analysis, decomposing complex reasoning into modular, interacting agents.
-
 This framework is built upon the principles of "Agentic Design Patterns" (Gulli, 2025), shifting from simple zero-shot prompting to complex Multi-Agent Orchestration.
 
 
 **SYSTEM ARCHITECTURE**
-
 The system operates on three distinct cognitive verticals, located in the /src directory:
 
 1. The Core Research Suite (Logical Deduction)
@@ -42,7 +38,6 @@ Path: src/lateral-thinking/
 
 
 **USAGE GUIDE**
-
 Running the Core Research Loop:
 
 1. Feed the topic to src/core-research/01_context_architect.md.
@@ -55,5 +50,4 @@ Running the Forensic Audit:
 2. Activate src/forensic-audit/the_data_inquisitor.md in an environment capable of Python execution.
 
 **DISCLAIMER**
-
 This repository documents a Human-in-the-Loop methodology. The agents provide the raw cognitive horsepower, but the strategic direction and final ethical judgment remain with the human operator.
