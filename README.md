@@ -20,9 +20,9 @@ The system operates on three distinct cognitive verticals, located in the `/src`
 1. The Core Research Suite (Logical Deduction)
     Path: `src/core-research/, Implements Prompt Chaining and Reflection Patterns to simulate a rigorous desk research workflow.
 
-[01] Context Architect: Generates high-fidelity "Hybrid Reality" environments (Digital Data + Field Observations).
-[02] Analytical Engine: A dedicated logic processor that performs "Stream of Consciousness" auditing and cross-verification.
-[03] Narrative Curator: Transforms raw deductions into high-level "Technical Memoirs.
+A. Context Architect: Generates high-fidelity "Hybrid Reality" environments (Digital Data + Field Observations).
+B. Analytical Engine: A dedicated logic processor that performs "Stream of Consciousness" auditing and cross-verification.
+C. Narrative Curator: Transforms raw deductions into high-level "Technical Memoirs.
 
 2. The Forensic Audit Suite (Technical Verification)
 Path: `src/forensic-audit/`*
