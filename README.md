@@ -1,4 +1,4 @@
-COGNITIVE RESEARCH OS (CROS)
+**COGNITIVE RESEARCH OS (CROS)**
 
 An Agentic Framework for Strategic Intelligence, Data Auditing, and Lateral Innovation.
 
@@ -6,7 +6,7 @@ Status: Active
 Methodology: Agentic Patterns
 Architecture: Multi-Agent
 
-PHILOSOPHY
+**PHILOSOPHY**
 
 Cognitive Research OS (CROS) is a structured operating system designed to externalize the cognitive processes of a researcher.
 
@@ -14,7 +14,7 @@ Traditional research is often opaque—clients see the final PDF, not the rigoro
 
 This framework is built upon the principles of "Agentic Design Patterns" (Gulli, 2024), shifting from simple zero-shot prompting to complex Multi-Agent Orchestration.
 
-SYSTEM ARCHITECTURE
+**SYSTEM ARCHITECTURE**
 
 The system operates on three distinct cognitive verticals, located in the /src directory:
 
@@ -37,7 +37,7 @@ Path: src/lateral-thinking/
 * The Da Vinci Engine: A polymathic agent designed to break "Functional Fixedness" by forcing domain shifts (e.g., solving business problems using principles from Evolutionary Biology).
 
 
-USAGE GUIDE
+**USAGE GUIDE**
 
 Running the Core Research Loop:
 
@@ -50,6 +50,6 @@ Running the Forensic Audit:
 1. Provide a CSV dataset.
 2. Activate src/forensic-audit/the_data_inquisitor.md in an environment capable of Python execution.
 
-DISCLAIMER
+**DISCLAIMER**
 
 This repository documents a Human-in-the-Loop methodology. The agents provide the raw cognitive horsepower, but the strategic direction and final ethical judgment remain with the human operator.
